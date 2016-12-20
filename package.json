@@ -1,0 +1,27 @@
+{
+    "name": "gulp-rev-qs",
+    "version": "1.0.0",
+    "description": "Gulp cache busting tool using query strings",
+    "keywords": [
+        "revision",
+        "cache",
+        "cache break",
+        "cache bust",
+        "gulp",
+        "gulpplugin"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/theimbender/gulp-rev-qs.git"
+    },
+    "author": {
+        "name": "Timothy Heimbender",
+        "email": "timothy@heimbender.com"
+    },
+    "homepage": "https://github.com/theimbender/gulp-rev-qs",
+    "license": "MIT",
+    "dependencies": {
+        "gulp-util": "^3.0.0",
+        "through2": "^2.0.0"
+    }
+}
